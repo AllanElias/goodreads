@@ -1,0 +1,126 @@
+
+header{
+	background-image: url(https://s.gr-assets.com/assets/home/masthead_background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center top;
+}
+
+h2{
+	font-size: 18px;
+}
+
+/*--header start--*/
+
+/*--nav--*/
+
+nav{
+	padding: 15px 0px;
+}
+
+.sign-in{
+    display: flex;
+    justify-content: flex-end;
+	
+}
+
+.address>input{
+	width: 112px;
+    height: 27px;
+    font-size: 12px;
+    color: black;
+}
+
+.address{
+    display: flex;
+    flex-wrap: wrap;
+        width: 120px;
+}
+
+a{
+ color: black;
+ text-decoration: underline;
+
+
+}
+
+#go{
+	background-color: #382110;
+    color: #fff;
+    border: none;
+    border-radius: 2px;
+    height: 26px;
+    width: 60px;
+
+}
+
+#r-me{
+	width: 20px;
+    height: auto;
+}
+
+/*--nav--*/
+
+
+/*--hero--*/
+
+.logo {
+    margin: 0px 0px 10px;
+}
+
+.signup {
+    display: flex;
+    flex-direction: column;
+}
+
+.signup>input {
+    margin: 4px;
+    width: 230px;
+    height: 30px;
+}
+
+.signup>input:last-child {
+    background-color: #fdd05f;
+    width: 80px;
+    border-radius: 6px;
+    border: none;
+}
+.signup>p{
+    font-size: 6px;
+}
+
+.title {
+    justify-content: center;
+}
+.sm{
+    width: 300px;
+    display: flex;
+    background-color: white;
+    float: right;
+    align-items: center;
+    margin-top: 20px;
+    margin-right: 10%;
+    justify-content: center;
+}
+.sm>p{
+
+    margin: 0px 5px;
+}
+.sm>img{
+
+    margin: 0px 5px;
+}
+
+/*--main--*/
+.background{
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAoCAYAAAA%2FtpB3AAAAOElEQVQIW2M6uG%2FlfyZGRkYGdIIBCKAsRgYMWXSCAU5gUYzVAAaELA5tCHUQAxjQZIFir16%2FhXAByw8GmnhQCm8AAAAASUVORK5CYII%3D);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+}
+
+.discover>h2 {
+    padding: 0px 15px;
+}
+
+
